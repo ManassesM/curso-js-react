@@ -1,8 +1,10 @@
 .card-game {
+    box-sizing: border-box;
+
     background-color: var(--color-alura);
     
-    width: 130px;
-    height: 160px;
+    width: var(--width);
+    height: var(--height);
 
     /* centralizing */
     display: flex;

@@ -3,4 +3,5 @@
   justify-content: space-evenly;
   
   padding: 2.5rem 0;
+  perspective: 400px;
 }
